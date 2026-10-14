@@ -1,9 +1,14 @@
 # Hello, I'm Sunday
 <a href="https://www.linkedin.com/in/sunday-ekaidem"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Computer Science graduate with a growing professional 
+focus on cybersecurity and technology. I have hands-on experience as a Junior SOC Analyst, 
+where I developed experience around security monitoring, identifying potential incidents, 
+threat awareness, networking, and computer systems. I also have previous experience in 
+software engineering, web development, and IT instruction.
+I'm particularly interested in opportunities where I can combine technology, cybersecurity, 
+problem-solving, and strategic thinking to help an organization manage risk and make better 
+technology decisions.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
